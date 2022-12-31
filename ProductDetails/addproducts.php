@@ -1,6 +1,6 @@
 <div class="container">
       <div id="heading" class="mt-3" class="text-center">
-          <h2>Product Entry Form First</h2>
+          <h2>Product Entry Form</h2>
       </div>
       <div id="entryform">
           
